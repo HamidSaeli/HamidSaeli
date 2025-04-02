@@ -1,5 +1,5 @@
 <img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
-## Hi there, I'm Hamid Saeli! 👋
+## Hi there, I'm Hamid Saeli ! 👋
 
 ### 🚀 Electrical Engineer | FPGA & AI Specialist | Telecommunications Expert
 
@@ -16,7 +16,7 @@
 
 - 📍 **Location:** [Your Location]
 - 📂 **Portfolio:** [GitHub](https://github.com/yourprofile)
-- 📩 **Contact:** [Your Email]
+- 📩 **Contact:** hamidsaeli282@gmail.com
 - 🚀 **Currently Learning:** ML Optimization for FPGA Architectures
 - 🤝 **Open for Collaboration:** AI-accelerated Hardware, Digital Design, and Edge Computing
 
@@ -41,14 +41,11 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-    <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="https://t.me/Hamid_Saeli" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
     <a href="https://github.com/yourprofile" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://twitter.com/yourprofile" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
     </a>
 </p>
 
