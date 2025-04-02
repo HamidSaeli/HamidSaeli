@@ -14,7 +14,7 @@
 
 💡 **Let's push the boundaries of technology together!**
 
-- 📍 **Location:** [Your Location]
+- 📍 **Location:** [Tehran, Iran]
 - 📂 **Portfolio:** [GitHub](https://github.com/yourprofile)
 - 📩 **Contact:** hamidsaeli282@gmail.com
 - 🚀 **Currently Learning:** ML Optimization for FPGA Architectures
