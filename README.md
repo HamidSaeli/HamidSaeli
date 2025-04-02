@@ -1,29 +1,30 @@
 <img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
-## Hi 👋, I'm Mohammad Amin Saeedi Rad!
+## Hi there, I'm Mohammad Amin Saeedi Rad! 👋
 
-### 🚀 Electrical Engineer | FPGA & AI Enthusiast | Telecommunications Specialist
-
----
-
-### 👨‍💻 About Me
-
-🔹 Electrical Engineer specialized in **Telecommunications Systems**  
-🔹 Passionate about **FPGA, AI, and Hardware-Software Co-Design**  
-🔹 **Building intelligent solutions** with cutting-edge technologies  
-🔹 Exploring the **intersection of hardware and AI** for innovative applications  
-
-- 🌍 Based in **[Your Location]**
-- 🖥️ Check out my **projects** at [GitHub](https://github.com/yourprofile)
-- ✉️ Reach me at **[Your Email]**
-- 🧠 Currently learning **Machine Learning for Hardware Acceleration**
-- 🤝 Open to **collaborations** in AI-driven FPGA projects
-- ⚡ Fun fact: I love **breaking down complex systems into simple solutions!**
+### 🚀 Electrical Engineer | FPGA & AI Specialist | Telecommunications Expert
 
 ---
 
-### 🛠️ Skills & Technologies
+### 🏆 About Me
 
-<p align="left">
+🔹 **Specialized in Telecommunications Systems** with a strong background in **FPGA & AI**  
+🔹 **Bridging the gap between hardware and intelligence** through cutting-edge innovations  
+🔹 Passionate about **high-performance computing, embedded systems, and digital design**  
+🔹 Dedicated to **exploring AI acceleration on hardware platforms**  
+
+💡 **Let's push the boundaries of technology together!**
+
+- 📍 **Location:** [Your Location]
+- 📂 **Portfolio:** [GitHub](https://github.com/yourprofile)
+- 📩 **Contact:** [Your Email]
+- 🚀 **Currently Learning:** ML Optimization for FPGA Architectures
+- 🤝 **Open for Collaboration:** AI-accelerated Hardware, Digital Design, and Edge Computing
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+<p align="center">
     <img src="https://img.shields.io/badge/FPGA-00979D?style=for-the-badge&logo=fpga&logoColor=white" alt="FPGA" />
     <img src="https://img.shields.io/badge/VHDL-00427E?style=for-the-badge&logo=vhdl&logoColor=white" alt="VHDL" />
     <img src="https://img.shields.io/badge/Verilog-8A2BE2?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog" />
@@ -39,7 +40,7 @@
 
 ### 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
     <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -53,12 +54,15 @@
 
 ---
 
-### ☕ Support Me
+### ☕ Support My Work
 
-<a href="https://www.buymeacoffee.com/yourprofile">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
-</a>
+<p align="center">
+    <a href="https://www.buymeacoffee.com/yourprofile">
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me a Coffee" />
+    </a>
+</p>
 
 ---
 
-**Let's innovate together! 🚀**
+🚀 **Transforming ideas into real-world innovations!**
+
